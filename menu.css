@@ -1,0 +1,11 @@
+.link {
+    text-decoration: none;
+}
+
+
+/*Mobile view */
+@media (max-width: 477px){
+    #page-header{
+        background-color: aliceblue;
+    }
+}
